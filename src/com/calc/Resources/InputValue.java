@@ -36,11 +36,11 @@ public class InputValue {
             return action;
         }
 
-        public int getfirstNumber () {
+        public int getFirstNumber () {
             return firstNumber;
         }
 
-        public int getsecondNumber () {
+        public int getSecondNumber () {
             return secondNumber;
         }
 
